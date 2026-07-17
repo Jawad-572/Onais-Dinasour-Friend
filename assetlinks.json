@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.vercel.onais_dinasour_friend_ruqi.twa",
+        "sha256_cert_fingerprints": ["77:A7:91:AE:15:9E:A9:C1:81:CE:5E:DC:13:DB:E0:FB:D9:25:84:AE:AA:2F:5C:EA:DC:33:7A:18:8E:86:26:A0"]
+      }
+    }]
