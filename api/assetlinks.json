@@ -1,8 +1,0 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "app.netlify.eagle_quest.twa",
-        "sha256_cert_fingerprints": ["6A:FB:F9:01:8A:14:8E:C2:27:66:44:02:36:DE:D5:E6:72:C3:F8:DB:47:D7:00:26:2C:08:CC:12:A8:CC:E0:53"]
-      }
-    }]
